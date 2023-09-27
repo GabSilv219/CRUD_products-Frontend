@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  endpoint: 'https://api-products-86we.onrender.com'
+  endpoint: 'https://api-products-e1k1.onrender.com'
 };
