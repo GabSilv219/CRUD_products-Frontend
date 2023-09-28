@@ -1,6 +1,6 @@
 # CRUD_Products-Frontend
 
-You can find the backend repository [Here](https://github.com/GabSilv219/CRUD_products-backend/tree/master)
+You can find the backend repository [Here](https://github.com/GabSilv219/CRUD-products-backend-prisma/tree/master)
 > Status: Done ✅
 
 ## 🔨 Tools and Libs used in this project:
